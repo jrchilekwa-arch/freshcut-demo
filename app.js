@@ -38,7 +38,7 @@ Preferred time: ${time}
 Please let me know if this time is available. Thank you!`;
 
 
-  const phoneNumber = "260970000000";
+  const phoneNumber = "260765054612";
 
 
   const whatsappURL =
